@@ -1,0 +1,6 @@
+uiautomator2~=3.0.3
+requests~=2.31.0
+openai~=1.16.1
+inflect~=7.0.0
+numpy~=1.26.4
+xmltodict~=0.13.0
